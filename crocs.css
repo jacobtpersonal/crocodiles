@@ -17,7 +17,7 @@ div#header {
 
 div#header h1 {
   font-family: "Righteous", sans-serif;
-  font-size: 48px;
+  font-size: 80px;
   background-color: #556b2f;
   -webkit-text-stroke: 0.1px white;
   padding: 0.2em 0.5em;
@@ -27,7 +27,7 @@ div#header h1 {
 
 #schultz {
   text-align: center;
-  font-size: 24px;
+  font-size: 40px;
 }
 
 #schultz p {
@@ -37,7 +37,7 @@ div#header h1 {
 
 #about h2 {
   font-family: 'Poppins', sans-serif;
-  font-size: 48px;
+  font-size: 35px;
   text-decoration: underline;
   margin-bottom: 0;
 }
@@ -54,8 +54,8 @@ div#header h1 {
 }
 
 #extract-title h3 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 48px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
   text-decoration: underline;
   margin-bottom: 5px;
 }
@@ -107,7 +107,7 @@ div#header h1 {
 }
 #furtherReading h3 {
   font-family: 'Poppins', sans-serif;
-  font-size: 48px;
+  font-size: 35px;
   text-decoration: underline;
 }
 
